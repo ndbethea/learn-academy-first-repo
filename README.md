@@ -1,1 +1,1 @@
-# Learn Academy Firt Repo
+# Learn Academy First Repo
